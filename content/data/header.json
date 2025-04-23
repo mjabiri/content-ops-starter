@@ -83,7 +83,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/Screenshot 2025-03-02 at 09.50.20.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
