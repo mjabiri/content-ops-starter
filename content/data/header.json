@@ -90,10 +90,10 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mt-16",
-                    "ml-0",
-                    "mb-16",
-                    "mr-16"
+                    "mt-60",
+                    "ml-60",
+                    "mb-60",
+                    "mr-60"
                 ]
             }
         }
