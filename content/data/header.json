@@ -90,7 +90,7 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mr-9",
+                    "mr-16",
                     "mt-9",
                     "ml-9",
                     "mb-9"
